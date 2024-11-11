@@ -1,6 +1,6 @@
 module.exports = {
   dependencies: {
-    'react-native-pdf': {
+    'react-native-screens': {
       platforms: {
         ios: null,
         android: null,
